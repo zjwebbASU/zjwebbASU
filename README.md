@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Zac 👋
 
-<!--
-**zjwebbASU/zjwebbASU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 
 
-Here are some ideas to get you started:
+🎓 I'm a Graphic Information Technology student at Arizona State University, focusing on front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- 📧 Email: zjwebb@asu.edu
+
+## 🌐 My Website
+- 🔗 [Check out my website](https://zacwebb.netlify.app/)
+
+## 💻 Coding Languages & Tools
+- HTML
+- CSS
+- JavaScript
+- React
+- GitHub
